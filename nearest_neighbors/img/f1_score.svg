@@ -494,16 +494,22 @@
     <text
        transform="translate(-15.354637,-133.19789)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111111px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="198.63353"
        y="230.71446"
        id="text240-4"><tspan
          sodipodi:role="line"
-         id="tspan792">Reference: F1 score by ischmahl from</tspan><tspan
+         id="tspan794"
+         x="198.63353"
+         y="230.71446">Reference: F1 score by ischmahl from</tspan><tspan
          sodipodi:role="line"
-         id="tspan794">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
+         x="198.63353"
+         y="232.47835"
+         id="tspan382">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
          sodipodi:role="line"
-         id="tspan796">is licensed under CC-BY 4.0.</tspan></text>
+         id="tspan796"
+         x="198.63353"
+         y="234.24223">is licensed under CC-BY 4.0.</tspan></text>
     <a
        transform="translate(52.375551,-57.604591)"
        style="display:inline"

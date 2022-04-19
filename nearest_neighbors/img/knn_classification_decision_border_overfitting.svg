@@ -826,16 +826,22 @@
      transform="translate(-14.563867,-48.366218)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111111px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="126.77744"
        y="161.07172"
        id="text240-4"><tspan
          sodipodi:role="line"
-         id="tspan614">Reference: Decision border for overfitting by ischmahl from </tspan><tspan
+         id="tspan616"
+         x="126.77744"
+         y="161.07172">Reference: Decision border for overfitting by ischmahl from </tspan><tspan
          sodipodi:role="line"
-         id="tspan616">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
+         x="126.77744"
+         y="162.8356"
+         id="tspan818">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
          sodipodi:role="line"
-         id="tspan618">is licensed under CC-BY 4.0.</tspan></text>
+         id="tspan618"
+         x="126.77744"
+         y="164.59949">is licensed under CC-BY 4.0.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

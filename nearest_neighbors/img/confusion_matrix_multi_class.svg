@@ -558,16 +558,22 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111111px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="114.47306"
        y="92.484428"
        id="text240-4"><tspan
          sodipodi:role="line"
-         id="tspan620">Reference: Confusion matrix of a multi-class classification by ischmahl from</tspan><tspan
+         id="tspan622"
+         x="114.47306"
+         y="92.484428">Reference: Confusion matrix of a multi-class classification by ischmahl from</tspan><tspan
          sodipodi:role="line"
-         id="tspan622">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
+         x="114.47306"
+         y="94.248314"
+         id="tspan212">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
          sodipodi:role="line"
-         id="tspan624">is licensed under CC-BY 4.0.</tspan></text>
+         id="tspan624"
+         x="114.47306"
+         y="96.012207">is licensed under CC-BY 4.0.</tspan></text>
     <a
        transform="translate(-15.732661,-62.556989)"
        style="display:inline"

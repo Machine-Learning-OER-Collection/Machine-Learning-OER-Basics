@@ -712,16 +712,22 @@
      transform="translate(-67.585568,42.062477)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111111px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="253.69292"
        y="136.02466"
        id="text240-4"><tspan
          sodipodi:role="line"
-         id="tspan1098">Reference: Recall of a binary classification by ischmahl from</tspan><tspan
+         id="tspan1100"
+         x="253.69292"
+         y="136.02466">Reference: Recall of a binary classification by ischmahl from</tspan><tspan
          sodipodi:role="line"
-         id="tspan1100">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
+         x="253.69292"
+         y="137.78854"
+         id="tspan2459">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
          sodipodi:role="line"
-         id="tspan1102">is licensed under CC-BY 4.0.</tspan></text>
+         id="tspan1102"
+         x="253.69292"
+         y="139.55243">is licensed under CC-BY 4.0.</tspan></text>
     <a
        transform="translate(122.68206,-19.055918)"
        style="display:inline"

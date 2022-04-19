@@ -224,7 +224,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0149341"
-     inkscape:cx="738.81287"
+     inkscape:cx="648.73548"
      inkscape:cy="171.83624"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
@@ -702,16 +702,22 @@
      transform="translate(-52.774403,43.062481)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111111px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="250.6331"
        y="136.17397"
        id="text240-4"><tspan
          sodipodi:role="line"
-         id="tspan234">Reference: Accuracy of a binary classification by ischmahl from the </tspan><tspan
+         id="tspan440"
+         x="250.6331"
+         y="136.17397">Reference: Accuracy of a binary classification by ischmahl from </tspan><tspan
          sodipodi:role="line"
-         id="tspan236">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
+         x="250.6331"
+         y="137.93785"
+         id="tspan448">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
          sodipodi:role="line"
-         id="tspan238">is licensed under CC-BY 4.0.</tspan></text>
+         id="tspan442"
+         x="250.6331"
+         y="139.70174">is licensed under CC-BY 4.0.</tspan></text>
     <a
        transform="translate(119.55381,-18.997669)"
        style="display:inline"

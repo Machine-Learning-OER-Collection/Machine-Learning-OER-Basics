@@ -850,16 +850,22 @@
      transform="translate(-14.563867,-50.378572)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111111px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="146.26884"
        y="160.99397"
        id="text240-4"><tspan
          sodipodi:role="line"
-         id="tspan394">Reference: Decision border for an optimal fitting by ischmahl from</tspan><tspan
+         id="tspan396"
+         x="146.26884"
+         y="160.99397">Reference: Decision border for an optimal fitting by ischmahl from</tspan><tspan
          sodipodi:role="line"
-         id="tspan396">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
+         x="146.26884"
+         y="162.75786"
+         id="tspan602">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
          sodipodi:role="line"
-         id="tspan398">is licensed under CC-BY 4.0.</tspan></text>
+         id="tspan398"
+         x="146.26884"
+         y="164.52174">is licensed under CC-BY 4.0.</tspan></text>
     <a
        transform="translate(15.397048,5.7423422)"
        style="display:inline"

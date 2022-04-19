@@ -736,18 +736,26 @@
      transform="translate(-17.061782,-34.893196)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111111px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="165.97421"
        y="140.52205"
        id="text240-4"><tspan
          sodipodi:role="line"
-         id="tspan1324">Reference: Type errors in a binary classification by </tspan><tspan
+         id="tspan1324"
+         x="165.97421"
+         y="140.52205">Reference: Type errors in a binary classification by </tspan><tspan
          sodipodi:role="line"
-         id="tspan1326">ischmahl from</tspan><tspan
+         id="tspan1328"
+         x="165.97421"
+         y="142.28593">ischmahl from</tspan><tspan
          sodipodi:role="line"
-         id="tspan1328">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
+         x="165.97421"
+         y="144.04982"
+         id="tspan2683">https://github.com/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics</tspan><tspan
          sodipodi:role="line"
-         id="tspan1330">is licensed under CC-BY 4.0.</tspan></text>
+         id="tspan1330"
+         x="165.97421"
+         y="145.81372">is licensed under CC-BY 4.0.</tspan></text>
     <a
        transform="translate(35.775484,-14.42416)"
        style="display:inline"
