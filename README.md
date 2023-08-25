@@ -10,26 +10,27 @@ For each algorithm, teaching material is provided as code, images and text snipp
 
 ## Content
 ---
-[Supervised learning](/Machine-Learning-OER-Basics-main/supervised_learning/)
-  * [Classification](/Machine-Learning-OER-Basics-main/supervised_learning/classification/) 
-    * [k-nearest neighbors](/Machine-Learning-OER-Basics-main/supervised_learning/classification/k_nearest_neighbors/)
-    * [Exploratory Data Analysis (EDA)](/Machine-Learning-OER-Basics-main/supervised_learning/Exploratory_data_analysis.ipynb) for
-    * [decision tree classifier](/Machine-Learning-OER-Basics-main/supervised_learning/classification/decision_tree/)
+[Supervised learning](/supervised_learning/)
+  * [Classification](/supervised_learning/classification/) 
+    * [k-nearest neighbors](/supervised_learning/classification/k_nearest_neighbors/)
+    * [Exploratory Data Analysis (EDA)](/supervised_learning/Exploratory_data_analysis_code.ipynb) for
+    * [decision tree classifier](/supervised_learning/classification/decision_tree/)
     * ensemble methods
-      * [random forest classifier](/Machine-Learning-OER-Basics-main/supervised_learning/classification/ensemble_methods/random_forest/)
-      * [gradient boosting classifier](/Machine-Learning-OER-Basics-main/supervised_learning/classification/ensemble_methods/boosting/code/gradient_boosting_tutorial.ipynb)
-  * [Regression](/Machine-Learning-OER-Basics-main/supervised_learning/regression/)
-    * [linear models](/Machine-Learning-OER-Basics-main/supervised_learning/regression/linear_models/)
+      * [random forest classifier](/supervised_learning/classification/ensemble_methods/random_forest/)
+      * [gradient boosting classifier](/supervised_learning/classification/ensemble_methods/boosting/)
+  * [Regression](/supervised_learning/regression/)
+    * [linear models](/supervised_learning/regression/linear_models/linear_regression/)
 
 In planning:
 
-[Unsupervised learning](/Machine-Learning-OER-Basics-main/unsupervised_learning/)
-
 * naive bayes
+
+[Unsupervised learning](/unsupervised_learning/)
+
 * support vector machines
 * neural network models
 
-[Reinforcement learning](/Machine-Learning-OER-Basics-main/reinforcement_learning/)
+[Reinforcement learning](/reinforcement_learning/)
 
 
 The repo follows the book _Introduction to Machine Learning with Python_ by Andreas Mueller and Sarah Guido.
@@ -51,11 +52,11 @@ pip install -r requirements.txt
 
 Or you can try out [Binder](https://mybinder.readthedocs.io/en/latest/) by clicking on the following badge:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Machine-Learning-OER-Collection/Machine-Learning-OER-Basic)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Machine-Learning-OER-Collection/Machine-Learning-OER-Basics/HEAD)
 
 ## Contributing 
 ---
-Please read the [Contributing Guidelines](CONTRIBUTING.md) if you want to contribute.
+Please read the [Contributing Guidelines](#contributing) if you want to contribute.
 
 Feel free to open a GitHub issue if you have any questions. 
 
