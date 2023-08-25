@@ -56,7 +56,7 @@ Or you can try out [Binder](https://mybinder.readthedocs.io/en/latest/) by click
 
 ## Contributing 
 ---
-Please read the [Contributing Guidelines](#contributing) if you want to contribute.
+Please read the [Contributing Guidelines](/CONTRIBUTING.md) if you want to contribute.
 
 Feel free to open a GitHub issue if you have any questions. 
 
