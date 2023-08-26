@@ -72,3 +72,9 @@ You can find further information about the Creative Commons licenses under:
 
 Teaching material is available under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license. 
 The kick data set is available under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
+
+## Contributors
+---
+- [ischmahl](https://github.com/ischmahl) contributed knn and linear regression
+- [julia](https://github.com/auringonnousu) contributed EDA, decision tree, random forest and gradient boosting classifier
