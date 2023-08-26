@@ -1,22 +1,7 @@
-# requirements.txt
-
-numpy==1.23.5
+numpy>=1.23.5
 pandas>=1.5.2
 matplotlib>=3.6.2
 openml>=0.13.0
 scikit-learn>=1.2.0
 seaborn>=0.12.2
 imblearn=>0.10.1
-
-# python==3.9.13
-
-#################################################################################
-# NOTE:
-
-# If you start a project from scratch (in a new environment), you can also install all modules in this requirements.txt via the command: pip install -r requirements.txt
-
-# This list has to be maintained in the future. For this, please check with: pip list --outdated
-
-# To check your installed version, use the command (in Jupyter Notebook): print('The installed version is {}.'.format(gseaborn.__version__))
-
-# For alternatives, go to https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
