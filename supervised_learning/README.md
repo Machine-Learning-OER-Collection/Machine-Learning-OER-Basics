@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 ## Structure supervised learning
 
 This part contains code for Classification and Regression algorithms. The classification algorithms are used to predict the class of a given data point. The regression algorithms are used to predict the value of a given data point.

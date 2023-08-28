@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Decision Tree Algorithm
 
 Decision trees are used for classification and regression. This example focuses on classification. 

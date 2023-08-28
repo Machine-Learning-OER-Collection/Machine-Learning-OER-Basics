@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Machine-Learning-OER-Basics
 This repository contains teaching material for machine learning which is labelled under a free license.
 

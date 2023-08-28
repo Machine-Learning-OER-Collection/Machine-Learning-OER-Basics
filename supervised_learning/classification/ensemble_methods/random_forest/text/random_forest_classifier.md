@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Random Forest Classifier
 
 Random forests are a tree-based model that can be used for classification and regression.
