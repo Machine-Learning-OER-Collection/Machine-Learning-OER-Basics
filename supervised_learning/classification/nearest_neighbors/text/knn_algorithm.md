@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## knn algorithm
 
 The knn algorithm predicts the category for the new dataset from the labels of the k nearest neighbors. The value of k is set before.

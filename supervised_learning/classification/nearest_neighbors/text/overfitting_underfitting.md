@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Overfitting and underfitting
 
 * Overfitting means, that the decision border runs too close to the area of the training data. This gives too much importance to outliers and makes the model difficult to generalize to new datasets.
