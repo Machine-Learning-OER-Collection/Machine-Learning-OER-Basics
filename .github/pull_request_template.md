@@ -1,8 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
-SPDX-License-Identifier: CC0-1.0
--->
-
 Please check before you submit a PR:
 
 - [ ] Have you checked to ensure there aren't other open PR for the same update/change?
