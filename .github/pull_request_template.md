@@ -1,5 +1,7 @@
-# SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
-# SPDX-License-Identifier: CC0-1.0
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC0-1.0
+-->
 
 Please check before you submit a PR:
 
