@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## F1 Score
 
 The F1 Score correlates the precision and the recall. A high F1 Score can only be achieved, if the values for false positive and for false negative predictions are both low.   

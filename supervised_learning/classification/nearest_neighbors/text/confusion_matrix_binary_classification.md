@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Confusion matrix for a binary classification
 
 A clear visualization of all possible prediction options for a binary classification is provided by the confusion matrix. On the main diagonal are the true predictions.

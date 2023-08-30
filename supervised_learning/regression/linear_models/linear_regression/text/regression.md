@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Regression
 
 Regression is used to predict a continuous value as output. It helps to identify trends or find missing data.

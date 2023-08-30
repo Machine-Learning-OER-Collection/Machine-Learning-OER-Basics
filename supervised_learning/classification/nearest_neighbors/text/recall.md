@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Recall
 
 The recall is the ratio of true positive predictions to all predictions of the searched classification (true positive and false negative ones). Increasing the recall means reducing the rate of false negative predictions.

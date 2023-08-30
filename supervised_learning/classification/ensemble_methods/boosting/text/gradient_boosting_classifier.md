@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Gradient Boosting Algorithm
 
 Boosting is an ensemble method that adapts a sequence of weak learners to repeatedly modified versions of the data. The predictions of the weak learners are then combined by a weighted majority vote to produce the final prediction. The gradient boosting algorithm is a particular boosting method. It builds the model additively. At each step, negative gradient values are fitted to the loss function.

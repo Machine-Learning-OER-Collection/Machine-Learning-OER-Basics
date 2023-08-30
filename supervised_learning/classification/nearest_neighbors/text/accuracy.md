@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Accuracy
 
 The accuracy is the ratio of true predictions divided by all predictions and describes how correct a model works. However, it only gives a good insight for balanced datasets. This fact is described by the accuracy paradox.

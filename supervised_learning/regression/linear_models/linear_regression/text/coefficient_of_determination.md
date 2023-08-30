@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Coefficient of determination (R squared)
 
 The coefficient of determination is a measure of the linear correlation between data points.

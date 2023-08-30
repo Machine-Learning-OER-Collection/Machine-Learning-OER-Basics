@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 ## Sampling Methods
 
 Sampling methods are used to balance imbalanced data sets.

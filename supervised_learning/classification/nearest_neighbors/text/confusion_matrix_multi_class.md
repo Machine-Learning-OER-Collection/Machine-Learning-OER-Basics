@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Confusion matrix for a multi-class classification
 
 For a multi-class confusion matrix the variables TP, TN, FP and FN have to be calculated for each individual class.

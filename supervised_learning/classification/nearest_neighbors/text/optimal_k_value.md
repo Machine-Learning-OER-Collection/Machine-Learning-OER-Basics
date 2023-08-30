@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Find optimal k value
 
 The optimal model for a knn algorithm is derived from viewing the accuracy of the training and test data as a function of the k value.

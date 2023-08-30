@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
+SPDX-License-Identifier: CC-BY-4.0
+-->
 ## Precision
 
 The precision tells you how often a positive prediction is correct. Increasing the precision means reducing the rate of false positive predictions.  
