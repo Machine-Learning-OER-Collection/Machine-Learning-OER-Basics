@@ -1,3 +1,4 @@
 # SPDX-FileCopyrightText: 2023 Machine-Learning-OER-Collection
 # SPDX-License-Identifier: CC0-1.0
-
+datasets/kick_after_EDA.csv filter=lfs diff=lfs merge=lfs -text
+datasets/kick.csv filter=lfs diff=lfs merge=lfs -text
