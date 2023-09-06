@@ -7,4 +7,4 @@ matplotlib>=3.6.2
 openml>=0.13.0
 scikit-learn>=1.2.0
 seaborn>=0.12.2
-imblearn=>0.10.1
+imbalanced-learn>=0.10.1
