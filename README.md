@@ -44,7 +44,7 @@ For more information, see the repo [introduction_to_ml_with_python](https://gith
 ## Requirements 
 ---
 
-The code is written in Python 3.9 and uses the requirements listed in the file [requirements.txt](#requirements).
+The code is written in Python 3.9 and uses the requirements listed in the file [requirements.txt](/supervised_learning/requirements.txt).
 You can install the requirements with the following commands:
 
 ```bash
@@ -75,7 +75,7 @@ You can find further information about the Creative Commons licenses under:
 * [CC Wiki Best Practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) 
 * [CC Wiki](https://wiki.creativecommons.org/)
 
-Teaching material is available under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license. 
+Teaching material is available under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) and [MIT](https://opensource.org/license/mit/) license. 
 The kick data set is available under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
 
